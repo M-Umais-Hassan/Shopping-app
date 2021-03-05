@@ -1,0 +1,16 @@
+Id Name Company Stock Price
+1 Refrigerator Dawlance 12 30000
+2 Refrigerator Haier 9 27000
+3 AC Haier 10 22000
+4 LED Ecostar 20 21000
+5 WashingMachine Dawlance 13 9000
+6 Microwave Haier 25 11000
+7 AC Dawlance 19 33000
+8 LED LG 17 22000
+9 Toaster Dawlance 25 3000
+10 Iron Ecostar 30 4000
+11 Juicer Ecostar 29 3500
+12 Refrigerator LG 12 39000
+13 AC LG 19 34000
+14 WashingMashine LG 33 7700
+15 Iron Local 50 1500 

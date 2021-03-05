@@ -1,0 +1,10 @@
+Id / Name / Company / Quantity / Price /
+3 / Y5 / Huawei / 1 / 10000 / 
+3 / Y5 / Huawei / 1 / 10000 / 
+6 / 7 / Iphone / 1 / 15000 / 
+5 / 6 / Iphone / 2 / 9000 / 
+3 / Y5 / Huawei / 1 / 10000 / 
+1 / Y7 / Huawei / 1 / 12000 / 
+13 / S7 / Samsung / 2 / 15000 / 
+10 / S4 / Samsung / 1 / 8000 / 
+14 / S8 / Samsung / 1 / 24000 / 

@@ -1,0 +1,22 @@
+ Id  Name  Company  Stock  Price  
+1 Y7 Huawei 13 12000 
+2 Y3 Huawei 18 9000 
+4 5 Iphone 9 7000 
+5 6 Iphone 10 9000 
+6 7 Iphone 17 15000 
+7 8 Iphone 10 23000 
+8 9 Iphone 7 35000 
+9 5s Iphone 9 13000 
+10 S4 Samsung 6 8000 
+11 S5 Samsung 7 10000 
+12 S6 Samsung 8 12000 
+13 S7 Samsung 5 15000 
+14 S8 Samsung 10 24000 
+15 S9 Samsung 11 40000 
+16 Note8 Samsung 12 30000 
+17 Note7 Samsung 7 35000 
+18 Note6 Samsung 9 39000 
+19 5 Nokia 19 20000 
+20 6 Nokia 22 26000 
+21 Note10 Samsung 12 40000 
+22 Huawei Honor8x 10 29000 

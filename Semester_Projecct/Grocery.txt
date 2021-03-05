@@ -1,0 +1,27 @@
+ Id  Name  Company  Stock  Price  
+1 Oil Sufi 40 90 
+2 Oil Dalda 50 110 
+3 Oil Khalas 110 120 
+4 Oil Sitara 90 190 
+5 Ghee Sufi 40 80 
+6 Ghee Dalda 50 100 
+7 Ghee Khalas 110 110 
+8 Ghee Sitara 90 180 
+9 Rice Supper 100 120 
+10 Wheet Supper 40 500 
+11 Sugar None 300 60 
+12 Tea Supreme 100 400 
+13 Tea Tapal 90 360 
+14 Cofee Supreme 79 450 
+15 Soap Lux 300 70 
+16 Soap Capry 300 50 
+17 Soap Detol 400 40 
+19 Soap Dove 130 110 
+20 Shampo Sunsilk 100 380 
+21 Shampo HeadandSholder 100 400 
+22 Shampo Dove 100 500 
+23 Shampo Clear 100 300 
+24 Soap Lemonmax 62 20 
+25 Daal None 75 120 
+26 Daal_Chana None 62 110 
+27 Chiken K&N's 40 220 
